@@ -1,6 +1,5 @@
-1. book
-2. web site
-3. language reference manual
-4. community
-5. major project
-6. 
+1. Book: (in GitHub repo)
+2. Website: https://en.scratch-wiki.info/wiki/
+3. Manual: https://snap.berkeley.edu/SnapManual.pdf
+4. Community: https://scratch.mit.edu/
+5. Project: https://scratch.mit.edu/projects/224236914/editor/
