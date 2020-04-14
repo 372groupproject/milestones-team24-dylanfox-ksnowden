@@ -1,0 +1,23 @@
+Our program will implement a platformer-style game in the language Scratch. 
+
+We expect that the program will:
+  > have multiple levels, each with a unique background 
+  > have multiple playable sprites with different features
+  > make use of different kinds of controls for different mechanics
+  > gradually build up complexity to make the game accessible to people
+    unfamiliar with Scratch
+  > run smoothly enough to play through Scratch's web interface
+  > be split up into many 'scripts', and be incredibly modular
+  
+We expect the program to be approximately 500-1000 lines of code. We will
+also be supplying graphics as part of our game, since we see that as an 
+important part of Scratch. 
+
+We think this program will be a good illustration of the features of our 
+language because Scratch is uniquely geared toward creating games and has 
+native support for graphic layering, screen positions, animations of sprites, 
+and feedback responses from a user. The code will make use of Scratch's 
+in-built color sensing functions which detect when a sprite is on another 
+color as a core mechanic of the game. We expect that our code will also
+structurally highlight Scratch's style with many small scripts that are tied 
+to specific user feedback or a sprite's position. 
