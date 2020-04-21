@@ -1,0 +1,1 @@
+press c to clone sprite and they will run into wall
